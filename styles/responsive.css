@@ -3,6 +3,7 @@
 {
     #page-home {
         background-position-x: 70vw;
+        height: 700px;
     }
 
     #page-home .content {
@@ -14,7 +15,8 @@
         position: absolute;
         bottom: 48px;
 
-        left: 50%;
+        left: 47%;
+        bottom: -8%;
         transform: translateX(-50%);
     }
     #page-home main {

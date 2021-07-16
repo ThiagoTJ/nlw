@@ -8,3 +8,6 @@ Acesse o site: https://thiagotj.github.io/nlw/
 
 ## Pontos de Coletas
 ![ponto-de-coleta](https://user-images.githubusercontent.com/66346740/125938147-4a0e3455-7b75-4611-9681-7abafdaf2554.png)
+
+## Cadastro
+![cadastro](https://user-images.githubusercontent.com/66346740/125940087-b9815604-c55e-4098-8765-9e835907ed3d.png)
